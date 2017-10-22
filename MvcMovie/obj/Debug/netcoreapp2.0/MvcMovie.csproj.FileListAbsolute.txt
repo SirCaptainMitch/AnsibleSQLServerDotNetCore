@@ -1,0 +1,10 @@
+/vagrant/MvcMovie/bin/Debug/netcoreapp2.0/MvcMovie.deps.json
+/vagrant/MvcMovie/bin/Debug/netcoreapp2.0/MvcMovie.runtimeconfig.json
+/vagrant/MvcMovie/bin/Debug/netcoreapp2.0/MvcMovie.runtimeconfig.dev.json
+/vagrant/MvcMovie/bin/Debug/netcoreapp2.0/MvcMovie.dll
+/vagrant/MvcMovie/bin/Debug/netcoreapp2.0/MvcMovie.pdb
+/vagrant/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.csproj.CoreCompileInputs.cache
+/vagrant/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.AssemblyInfoInputs.cache
+/vagrant/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.AssemblyInfo.cs
+/vagrant/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.dll
+/vagrant/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.pdb
