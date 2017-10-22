@@ -8,3 +8,13 @@
 /vagrant/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.AssemblyInfo.cs
 /vagrant/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.dll
 /vagrant/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.pdb
+F:\proj\dotnetcore\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.deps.json
+F:\proj\dotnetcore\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.runtimeconfig.json
+F:\proj\dotnetcore\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.runtimeconfig.dev.json
+F:\proj\dotnetcore\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.dll
+F:\proj\dotnetcore\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.pdb
+F:\proj\dotnetcore\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.csproj.CoreCompileInputs.cache
+F:\proj\dotnetcore\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfoInputs.cache
+F:\proj\dotnetcore\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfo.cs
+F:\proj\dotnetcore\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.dll
+F:\proj\dotnetcore\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.pdb
