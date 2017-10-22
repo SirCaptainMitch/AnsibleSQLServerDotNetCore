@@ -1,0 +1,18 @@
+---
+- hosts: all 
+  become: yes 
+  become_user: root 
+  roles:
+    - ntp
+    - mssql
+    - mssql-tools
+    - mssql-agent
+    - mssql-fulltext
+    - mssql-ssis
+  tasks: 
+    - name: Set Hostname 
+      hostname: 
+        name: sql01
+
+    - name: set hosts for xenial 
+      shell: echo "127.0.1.1 sql01" >> /etc/hosts
