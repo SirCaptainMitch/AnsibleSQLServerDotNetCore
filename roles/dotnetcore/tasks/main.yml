@@ -1,0 +1,6 @@
+---
+- name: Update Cache and Install dotnetcore
+  apt:
+    package: dotnet-sdk-2.0.2
+    update_cache: yes
+

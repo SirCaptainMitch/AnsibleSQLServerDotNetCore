@@ -9,6 +9,7 @@
     - mssql-agent
     - mssql-fulltext
     - mssql-ssis
+    - dotnetcore
   tasks: 
     - name: Set Hostname 
       hostname: 

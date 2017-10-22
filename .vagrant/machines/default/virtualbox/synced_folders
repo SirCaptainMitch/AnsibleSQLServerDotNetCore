@@ -1,1 +1,1 @@
-{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"F:/proj/vagrant/ansible-mssql-role","disabled":false,"__vagrantfile":true}}}
+{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"F:/proj/dotnetcore/MvcMovie","disabled":false,"__vagrantfile":true}}}
